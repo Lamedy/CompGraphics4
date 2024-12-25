@@ -1,0 +1,33 @@
+{
+  "created_at": "2024-12-25T22:21:55.778898",
+  "version": "0.1",
+  "mtllibs": [
+    "13519_Beach_Towels_v2_L2.mtl"
+  ],
+  "vertex_buffers": [
+    {
+      "material": "Beach_Towels_2",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 0,
+      "byte_length": 2574336
+    },
+    {
+      "material": "Beach_Towels_3",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 2574336,
+      "byte_length": 2574336
+    },
+    {
+      "material": "Beach_Towels_4",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 5148672,
+      "byte_length": 2574336
+    },
+    {
+      "material": "Beach_Towels_1",
+      "vertex_format": "T2F_N3F_V3F",
+      "byte_offset": 7723008,
+      "byte_length": 854016
+    }
+  ]
+}
